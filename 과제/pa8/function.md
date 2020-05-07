@@ -25,7 +25,7 @@ int power(int a, int b)
     for	(int i = 0; i < b; i++)
     {
         result *= a;
-	}
+    }
     
     return result;
 }
@@ -50,7 +50,7 @@ int power(int a, int b)
 
 ## pa8-1
 
-**입력: ** 배열의 사이즈
+**입력:** 배열의 사이즈
 
 **Test Case = 10000**
 
